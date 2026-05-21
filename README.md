@@ -628,7 +628,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact & Support
 
-- **Project Maintainer:** [Your Name]
+- **Project Maintainer:** Iheoma Nwuzor
 - **Email:** iheomanwuzor@gmail.com
 - **Issues:** [GitHub Issues](https://github.com/yourusername/Ridewise_10Alytics/issues)
 - **Documentation:** [Wiki](https://github.com/yourusername/Ridewise_10Alytics/wiki)
