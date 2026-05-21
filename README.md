@@ -629,7 +629,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact & Support
 
 - **Project Maintainer:** [Your Name]
-- **Email:** your.email@example.com
+- **Email:** iheomanwuzor@gmail.com
 - **Issues:** [GitHub Issues](https://github.com/yourusername/Ridewise_10Alytics/issues)
 - **Documentation:** [Wiki](https://github.com/yourusername/Ridewise_10Alytics/wiki)
 
